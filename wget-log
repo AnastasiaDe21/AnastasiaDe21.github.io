@@ -1,0 +1,11 @@
+--2025-10-20 16:57:26--  https://yandex.ru/images/search?from=tabbar
+Resolving yandex.ru (yandex.ru)... 77.88.55.88, 5.255.255.77, 77.88.44.55, ...
+Connecting to yandex.ru (yandex.ru)|77.88.55.88|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: unspecified [text/html]
+Saving to: ‘search?from=tabbar’
+
+search?from=tabbar                              [<=>                                                                                         ]       0  --.-KB/s               search?from=tabbar                              [ <=>                                                                                        ]  12.29K  47.4KB/s               search?from=tabbar                              [  <=>                                                                                       ]  44.15K  85.7KB/s               search?from=tabbar                              [   <=>                                                                                      ]  81.04K   110KB/s               search?from=tabbar                              [    <=>                                                                                     ] 150.28K   159KB/s               search?from=tabbar                              [     <=>                                                                                    ] 251.24K   219KB/s               search?from=tabbar                              [      <=>                                                                                   ] 382.73K   295KB/s    in 1.3s    
+
+2025-10-20 16:57:29 (295 KB/s) - ‘search?from=tabbar’ saved [391914]
+
